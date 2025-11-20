@@ -1,8 +1,8 @@
-# Course Notes: Data Analysis Using R (WiSe 2024/25)
+# Course Notes: Data Analysis Using R (WiSe 2025/26)
 
 
 This repository serves as a note repository for the course “Data
-Analysis Using R” held in winter semester 2024/25. In the `lecture`
+Analysis Using R” held in winter semester 2025/26. In the `lecture`
 folder, you will find the scripts created during the lectures. The rest
 of the repository serves as an example repository for orientation in the
 group projects.
