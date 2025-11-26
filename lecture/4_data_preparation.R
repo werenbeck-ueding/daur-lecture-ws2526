@@ -10,8 +10,8 @@ library(tidyverse)
 
 files <- list(
   input = list(
-    enoe = "data/raw/enoe/enoe.csv",
-    fence_construction = "data/raw/fence_construction/csv/"
+    enoe = "data/raw/enoe.csv",
+    fence_construction = "data/raw/fence_construction/"
   ),
   output = list(
     enoe = "data/processed/enoe.csv"
