@@ -6,7 +6,7 @@ author:
 aspectratio: 169
 bibliography: references.bib
 date: today
-date-format: long
+date-format: "DD.MM.YYYY"
 format:
   beamer:
     theme: Frankfurt
