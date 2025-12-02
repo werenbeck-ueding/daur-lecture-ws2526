@@ -42,6 +42,8 @@ findings highlight the effectiveness of border enforcement policies but
 emphasize methodological limitations and deviations from the original
 study.
 
+## References
+
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
 
