@@ -1,4 +1,4 @@
-# Course Notes: Data Analysis Using R (WiSe 2025/26)
+# Data Analysis Using R (WiSe 2025/26) – Example Repository
 
 
 This repository serves as a note repository for the course “Data
