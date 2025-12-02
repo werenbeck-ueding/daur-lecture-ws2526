@@ -83,7 +83,7 @@ library(scales)
 
 ## Data on Fence Construction
 
-- Data on potential fence construction sites self-collected
+- Data on potential fence construction, restricted to a random 50% sample
 
 - Various sources for identifying locations
   

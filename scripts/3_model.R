@@ -215,6 +215,20 @@ event_plots
 reg_table %>% 
   save_kable(str_c(files$output$table_dir, "reg_table.tex"))
 
+# Export event plots as PDF
+event_plots %>% 
+  map2(
+    names(.),
+    ~ ggsave(
+      str_c(files$output$figure_dir, "event_plot_", .y, ".pdf"),
+      plot = .x,
+      width = 1000,
+      height = 750,
+      units = "px"
+    )
+  )
+
+# Export event plots as PNG
 event_plots %>% 
   map2(
     names(.),

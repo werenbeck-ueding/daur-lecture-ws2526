@@ -1,8 +1,8 @@
 \begin{table}
-
+\centering\centering
 \caption{Impact of Fence Construction on US-Mexico Migration}
 \centering
-\resizebox{\linewidth}{!}{
+\resizebox{\ifdim\width>\linewidth\linewidth\else\width\fi}{!}{
 \begin{tabular}[t]{lcccc}
 \toprule
 \multicolumn{1}{c}{} & \multicolumn{2}{c}{OLS} & \multicolumn{2}{c}{Logit} \\
@@ -11,7 +11,7 @@
 \midrule
 Fence Construction & -0.002* & -0.002* & -0.446** & -0.468**\\
  & (0.001) & (0.001) & (0.220) & (0.220)\\
-Age &  & 0.000*** &  & -0.017***\\
+Age &  & -0.000*** &  & -0.017***\\
  &  & (0.000) &  & (0.005)\\
 Female &  & -0.002*** &  & -0.489***\\
  &  & (0.000) &  & (0.098)\\

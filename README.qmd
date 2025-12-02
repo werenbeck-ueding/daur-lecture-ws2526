@@ -1,5 +1,5 @@
 ---
-title: "Course Notes: Data Analysis Using R (WiSe 2025/26)"
+title: "Data Analysis Using R (WiSe 2025/26) -- Example Repository"
 bibliography: presentation/references.bib
 format: gfm
 ---
